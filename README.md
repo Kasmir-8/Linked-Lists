@@ -1,2 +1,2 @@
 # Linked-Lists
-Replacing the vector-arrays with a lined list with dynamically allocated arrays 
+Replacing  vector-arrays with a linked list with dynamically allocated arrays 
